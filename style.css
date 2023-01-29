@@ -1,0 +1,39 @@
+*{
+    background-color: #eee;
+}
+
+.Edit3{
+    background-color: transparent;
+}
+
+header {
+    background-image: url("img-alfred/chinese\ restaurant\ bg.webp");
+    text-align: center;
+    padding: 20% ;
+    padding-top: 7.5%;
+    color: red;
+    background-color: transparent;
+}
+
+#logo {
+    padding-left: 10px;
+}
+
+article {
+    background-color: #eee;
+    padding: 0.3rem
+}
+
+.specials {
+    padding: 0.1rem ;
+}
+
+.Edit1 {
+    padding-left: 5%;
+}
+
+#Headings1 {
+    font-size: 5rem;
+}
+
+
